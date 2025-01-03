@@ -123,8 +123,8 @@ const papara = new PaparaClient({
         nameSurname: 'Test Müşteri',
         referenceId: '1234',
         orderDescription: 'Test Ödemesi',
-        notificationUrl: 'https://test.dalamangoldtaxi.net/callback',
-        redirectUrl: 'https://test.dalamangoldtaxi.net/'
+        notificationUrl: 'https://speedsmm.com/callback',
+        redirectUrl: 'https://speedsmm.com/'
     });
     /*
     */
